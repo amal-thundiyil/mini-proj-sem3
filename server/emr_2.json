@@ -1,0 +1,3461 @@
+{
+    "context": [
+        "Admission Date :\n",
+        "2014-01-20\n",
+        "Discharge Date :\n",
+        "2014-01-21\n",
+        "Date of Birth :\n",
+        "1928-01-02\n",
+        "Sex :\n",
+        "M\n",
+        "Service :\n",
+        "MEDICINE\n",
+        "Allergies :\n",
+        "Patient recorded as having No Known Allergies to Drugs\n",
+        "Attending : Michael V. Hamlett , M.D.\n",
+        "Chief Complaint :\n",
+        "Hypoxia\n",
+        "Major Surgical or Invasive Procedure : none\n",
+        "History of Present Illness :\n",
+        "CC : dyspnea\n",
+        "HPI :\n",
+        "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n",
+        "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n",
+        "The daughter says that on the day PTA , when she visited the patient at the NH , he was \" having a good day ,\" more interactive than usual and in good spirits .\n",
+        "She was called at 430 am today from the NH with the news that the pt was not doing well , and she came to the Deanna to meet up with her father .\n",
+        "Of note , the patient 's daughter and son-in-law confirm his desire to be DNR/DNI , stating that they want him to be comfortable .\n",
+        "However , when asked if she thinks he would want comfort measures even if it meant that his respiratory status would worsen , the pt 's daughter says that he would not .\n",
+        "In particular , she feels that the pt would not want a morphine drip if it would negatively impact his respiratory function .\n",
+        "ROS : patient unable to communicate at current time\n",
+        "Past Medical History :\n",
+        "PMH :\n",
+        "- DM2 , with mild background diabetic retinopathy\n",
+        "- CVA x 2 , 1970 and 1996\n",
+        "- HTN\n",
+        "- CAD\n",
+        "- CHF , LVEF unknown\n",
+        "- PVD , s/p femoral-popliteal bypass\n",
+        "- renal cell ca , s/p left nephrectomy 1992\n",
+        "- BPH\n",
+        "- dementia , since 2000 , baseline MMSE 21/29\n",
+        "- s/p fall with right hip fx and ORIF\n",
+        "- moderate R sided macular degeneration\n",
+        "- Depression\n",
+        "- s/p right inguinal hernia repair\n",
+        "Social History :\n",
+        "Social hx : came to the States 10 yrs ago with his wife .\n",
+        "Robert a daughter who lives in Wareham .\n",
+        "Used to work as an engineer at an automobile plant .\n",
+        "World War II veteran .\n",
+        "Currently living at Beth Israel Deaconess Hospital-Needham Rehab .\n",
+        "Asian-speaking only .\n",
+        "Family History : noncontributory\n",
+        "Physical Exam :\n",
+        "Vitals :\n",
+        "T 102.8\n",
+        "HR 113\n",
+        "BP 157/85\n",
+        "RR 35\n",
+        "Sat 97% on BIPAP\n",
+        "10-23\n",
+        "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n",
+        "HEENT :\n",
+        "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n",
+        "Neck :\n",
+        "JVP flat\n",
+        "CV : difficult to assess heart sounds over respiratory sounds , but appears to have RRR , nl s1 s2 , no murmurs\n",
+        "Lungs :\n",
+        "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n",
+        "Abd : thin , nd , nt , soft , no masses palpable\n",
+        "Ext : thin , no edema , multiple old well-healed scars on R leg\n",
+        "Skin : warm and dry , no rash or breakdown noted though could not examine sacrum\n",
+        "Neuro : reactive to pain , otherwise\n",
+        "Pertinent Results :\n",
+        "2014-01-20 05:30 AM BLOOD WBC - 10.9 RBC - 4.63 Hgb - 13.6 * Hct - 40.3 # MCV - 87 MCH - 29.3 MCHC - 33.7 RDW - 14.0 Plt Ct - 393 #\n",
+        "2014-01-20 05:30 AM BLOOD Neuts - 82.6 * Lymphs - 14.5 * Monos - 2.2 Eos - 0.2 Baso - 0.4\n",
+        "2014-01-20 02:08 PM BLOOD PT - 13.2 PTT - 27.4 INR ( PT )- 1.2\n",
+        "2014-01-20 05:30 AM BLOOD Plt Ct - 393 #\n",
+        "2014-01-20 05:30 AM BLOOD Glucose - 334 * UreaN - 22 * Creat - 0.9 Na - 144 K - 5.0 Cl - 108 HCO3 - 25 AnGap - 16\n",
+        "2014-01-20 02:08 PM BLOOD CK ( CPK )- 275 *\n",
+        "2014-01-20 05:30 AM BLOOD ALT - 15 AST - 22 LD ( LDH )- 254 * CK ( CPK )- 398 * AlkPhos - 125 * TotBili - 0.5\n",
+        "2014-01-20 02:08 PM BLOOD CK-MB - 9 cTropnT - 0.08 *\n",
+        "2014-01-20 05:30 AM BLOOD cTropnT - 0.05 *\n",
+        "2014-01-20 05:30 AM BLOOD CK-MB - 7\n",
+        "2014-01-20 05:30 AM BLOOD Albumin - 3.2 * Calcium - 9.3 Phos - 4.2 Mg - 1.8\n",
+        "ABG s:\n",
+        "2014-01-20 10:46 PM BLOOD Type - ART pO2 - 148 * pCO2 - 129 * pH - 7.03 * calHCO3 - 37 * Base XS - -1\n",
+        "2014-01-20 11:49 AM BLOOD Type - ART PEEP - 5 FiO2 - 60 pO2 - 75 * pCO2 - 56 * pH - 7.29 * calHCO3 - 28 Base XS - 0 Intubat - NOT INTUBA Comment - BIPAP\n",
+        "2014-01-20 10:46 PM BLOOD Glucose - 114 * Lactate - 1.8 K - 4.8\n",
+        "2014-01-20 11:49 AM BLOOD Lactate - 3.0 * K - 5.1\n",
+        "2014-01-20 11:49 AM BLOOD freeCa - 1.19\n",
+        "CXR :\n",
+        "IMPRESSION :\n",
+        "Focal consolidation in the medial aspect of the right lower lung\n",
+        "Brief Hospital Course :\n",
+        "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n",
+        "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n",
+        "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n",
+        "He was supported on BIPAP for his respiratory status .\n",
+        "An ABG was attempted in the Deanna however it was limited by pt discomfort .\n",
+        "ABG on arrival to the ICU was 7.29/56/75 .\n",
+        "He was continued on BIPAP .\n",
+        "Blood cultures and sputum cultures were sent .\n",
+        "Over the course of the day he continued to decline .\n",
+        "He was given some prn Morphine for comfort .\n",
+        "In the evening of the day of admission he was noted to be increasingly somnolent .\n",
+        "A repeat ABG was performed which was 7.03/129/148 .\n",
+        "His family was notified that he was doing worse and came in to visit him .\n",
+        "It was his family 's wish that he be made comfortable .\n",
+        "Based upon this wish the BIPAP was removed and he was placed on nasal cannula .\n",
+        "He was written for a morphine drip however he expired before this could be initiated .\n",
+        "Secondary issues\n",
+        "Elevated lactate :\n",
+        "This was concerning for early sepsis given RLL PNA .\n",
+        "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n",
+        "DM2 :\n",
+        "He was covered with a Insulin drip while unstable\n",
+        "CV :\n",
+        "CAD :\n",
+        "He was not taking any PO medications per Hunt Center Rehab so all medications were held .\n",
+        "Medications on Admission :\n",
+        "Meds :\n",
+        "- Paxil\n",
+        "- Terazosin\n",
+        "- Glucophage\n",
+        "- Glyburide\n",
+        "- Atenolol\n",
+        "- Imdur\n",
+        "Discharge Disposition :\n",
+        "Expired\n",
+        "Discharge Diagnosis :\n",
+        "Pneumonia\n",
+        "Discharge Condition : expired\n",
+        "Discharge Instructions :\n",
+        "N/A\n",
+        "Followup Instructions :\n",
+        "N/A\n",
+        "Daniel Monica MD 55-804\n",
+        "Completed by : Sheri John MD 30-456 2014-01-21 @ 0659\n",
+        "Signed electronically by : DR. Meredith Davis on : Sandra 2014-03-13 1:53 PM\n",
+        "( End of Report )"
+    ],
+    "qas": [
+        {
+            "ques": [
+                "Has the patient had any rll pneumonia assossciated with dyspnea"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had any mild background diabetic retinopathy assossciated with dm2"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        30,
+                        ""
+                    ],
+                    "evidence_start": 30,
+                    "answer_entity_type": "empty",
+                    "evidence": "- DM2 , with mild background diabetic retinopathy\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had any early sepsis assossciated with rll pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        111,
+                        ""
+                    ],
+                    "evidence_start": 111,
+                    "answer_entity_type": "empty",
+                    "evidence": "This was concerning for early sepsis given RLL PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had any accessory muscle use assossciated with moderate distress"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "When was the patient evaluated for chf and what are lvef results",
+                "lvef results to evaluate chf"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "When was the patient evaluated for dementia and what are baseline mmse results",
+                "baseline mmse results to evaluate dementia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "has the patient had lvef for chf",
+                "Did the patient ever have lvef that evaluated chf"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient ever have baseline mmse that evaluated dementia",
+                "has the patient had baseline mmse for dementia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What work up has been done for the patient's chf",
+                "What evaluation was done for this person's chf",
+                "Was chf evaluated before",
+                "What tests have been ordered for evaluation of chf previously"
+            ],
+            "ans": [
+                {
+                    "text": "lvef",
+                    "answer_start": [
+                        34,
+                        3
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "single",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What work up has been done for the patient's dementia",
+                "What evaluation was done for this person's dementia",
+                "Was dementia evaluated before",
+                "What tests have been ordered for evaluation of dementia previously"
+            ],
+            "ans": [
+                {
+                    "text": "baseline mmse",
+                    "answer_start": [
+                        38,
+                        6
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "single",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why was lvef done on this patient",
+                "Why was lvef performed",
+                "Why did the patient have lvef",
+                "Why did they patient get lvef",
+                "What was the indication for the most recent lvef"
+            ],
+            "ans": [
+                {
+                    "text": "chf",
+                    "answer_start": [
+                        34,
+                        1
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "single",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What was the indication for the most recent baseline mmse",
+                "Why did they patient get baseline mmse",
+                "Why was baseline mmse performed",
+                "Why did the patient have baseline mmse",
+                "Why was baseline mmse done on this patient"
+            ],
+            "ans": [
+                {
+                    "text": "dementia",
+                    "answer_start": [
+                        38,
+                        1
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "single",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What were the results of the patient's last lvef for his chf"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What were the results of the patient's last baseline mmse for his dementia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What were the results of the patient's last cxr for his clear pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What lab results does he have that are pertinent to clear pneumonia diagnosis"
+            ],
+            "ans": [
+                {
+                    "text": "cxr",
+                    "answer_start": [
+                        95,
+                        13
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "single",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "has this young, at risk woman patient had a screening for clear pneumonia",
+                "Has this patient been screened for clear pneumonia",
+                "Has the patient ever been screened for clear pneumonia",
+                "Has this patient been tested for clear pneumonia",
+                "Any prior clear pneumonia testing"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "has she been screened for a history of chf",
+                "Has this patient been tested for chf",
+                "Has the patient been tested for chf",
+                "Has the patient been screened for chf",
+                "Has the patient ever been screened for chf"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient been tested for dementia",
+                "has this patient ever had testing for dementia",
+                "Has this patient ever been tested for dementia",
+                "Any prior dementia testing",
+                "Has this patient been screened for dementia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does he have any evidence of clear pneumonia in cxr",
+                "Are there any cxr indicating clear pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient positive for clear pneumonia",
+                "Does the patient have any evidence of clear pneumonia",
+                "Has the patient ever been positive for clear pneumonia",
+                "Has this patient ever tested positive for clear pneumonia",
+                "Has the patient ever screened postive on clear pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "cxr",
+                    "answer_start": [
+                        95,
+                        13
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "single",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "has the pt ever had a positive cxr",
+                "has the patient had positive cxr"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "has the patient had positive blood pressures",
+                "has the pt ever had a positive blood pressures"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        112,
+                        ""
+                    ],
+                    "evidence_start": 112,
+                    "answer_entity_type": "empty",
+                    "evidence": "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "How was the diagnosis of clear pneumonia made",
+                "What is basis of diagnosis for clear pneumonia Like, what level/type of evaluation was conducted if any",
+                "has the patient had diagnostics for clear pneumonia",
+                "How was the patient's clear pneumonia diagnosed",
+                "How was clear pneumonia diagnosed"
+            ],
+            "ans": [
+                {
+                    "text": "cxr",
+                    "answer_start": [
+                        95,
+                        13
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "single",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "were they ever treated for presumed aspiration",
+                "What methods has the patient tried to manage her presumed aspiration",
+                "What was done to correct the patient's presumed aspiration",
+                "Has the patient ever received treatment for presumed aspiration",
+                "What treatments for presumed aspiration has this patient tried"
+            ],
+            "ans": [
+                {
+                    "text": "vanco",
+                    "answer_start": [
+                        94,
+                        6
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "iv abx",
+                    "answer_start": [
+                        21,
+                        26
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                },
+                {
+                    "text": "zosyn",
+                    "answer_start": [
+                        94,
+                        4
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What interventions were done for the patient's `` hospital `` aquired pna",
+                "Has the patient ever received treatment for `` hospital `` aquired pna",
+                "has the pt ever had treatment of his `` hospital `` aquired pna",
+                "were they ever treated for `` hospital `` aquired pna",
+                "How was `` hospital `` aquired pna managed"
+            ],
+            "ans": [
+                {
+                    "text": "vanco",
+                    "answer_start": [
+                        94,
+                        6
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "iv abx",
+                    "answer_start": [
+                        21,
+                        26
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                },
+                {
+                    "text": "zosyn",
+                    "answer_start": [
+                        94,
+                        4
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "How was right hip fx managed",
+                "Was right hip fx treated",
+                "Was the patient ever treated for right hip fx",
+                "What was done to correct the patient's right hip fx",
+                "How was the patient's right hip fx treated"
+            ],
+            "ans": [
+                {
+                    "text": "orif",
+                    "answer_start": [
+                        39,
+                        8
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "single",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "How was the patient's asp pna treated",
+                "What treatments for asp pna has this patient tried",
+                "What kind of treatments have been tried for her asp pna",
+                "What was done to correct the patient's asp pna",
+                "has the pt ever had treatment of his asp pna"
+            ],
+            "ans": [
+                {
+                    "text": "vanco",
+                    "answer_start": [
+                        94,
+                        6
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "iv abx",
+                    "answer_start": [
+                        21,
+                        26
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                },
+                {
+                    "text": "zosyn",
+                    "answer_start": [
+                        94,
+                        4
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What interventions were done for the patient's renal cell ca",
+                "How was renal cell ca managed",
+                "What was done to correct the patient's renal cell ca",
+                "Has the patient ever been treated for renal cell ca",
+                "What treatment has the patient had for his renal cell ca"
+            ],
+            "ans": [
+                {
+                    "text": "left nephrectomy",
+                    "answer_start": [
+                        36,
+                        6
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "single",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What treatment has the patient had for his pvd",
+                "How was pvd managed",
+                "What methods has the patient tried to manage her pvd",
+                "What kind of treatments have been tried for her pvd",
+                "How was pvd treated"
+            ],
+            "ans": [
+                {
+                    "text": "femoral-popliteal bypass",
+                    "answer_start": [
+                        35,
+                        4
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "single",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What was the indication for my patient's vanco",
+                "Why is the patient on vanco",
+                "Why was the patient on vanco"
+            ],
+            "ans": [
+                {
+                    "text": "his presumed aspiration",
+                    "answer_start": [
+                        94,
+                        8
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "\" hospital \" aquired pna",
+                    "answer_start": [
+                        94,
+                        12
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What was the indication for my patient's orif",
+                "Why was the patient on orif",
+                "Why is the patient on orif"
+            ],
+            "ans": [
+                {
+                    "text": "right hip fx",
+                    "answer_start": [
+                        39,
+                        4
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "single",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why was the patient on iv abx",
+                "What was the indication for my patient's iv abx",
+                "Why is the patient on iv abx"
+            ],
+            "ans": [
+                {
+                    "text": "asp pna",
+                    "answer_start": [
+                        21,
+                        13
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                },
+                {
+                    "text": "symptoms",
+                    "answer_start": [
+                        21,
+                        35
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why is the patient on left nephrectomy",
+                "Why was the patient on left nephrectomy",
+                "What was the indication for my patient's left nephrectomy"
+            ],
+            "ans": [
+                {
+                    "text": "renal cell ca",
+                    "answer_start": [
+                        36,
+                        1
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "single",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What was the indication for my patient's femoral-popliteal bypass",
+                "Why is the patient on femoral-popliteal bypass",
+                "Why was the patient on femoral-popliteal bypass"
+            ],
+            "ans": [
+                {
+                    "text": "pvd",
+                    "answer_start": [
+                        35,
+                        1
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "single",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why is the patient on zosyn",
+                "What was the indication for my patient's zosyn",
+                "Why was the patient on zosyn"
+            ],
+            "ans": [
+                {
+                    "text": "his presumed aspiration",
+                    "answer_start": [
+                        94,
+                        8
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "\" hospital \" aquired pna",
+                    "answer_start": [
+                        94,
+                        12
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Was the patient ever given vanco for presumed aspiration",
+                "Did the patient receive vanco for presumed aspiration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient receive vanco for `` hospital `` aquired pna",
+                "Was the patient ever given vanco for `` hospital `` aquired pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Was the patient ever given orif for right hip fx",
+                "Did the patient receive orif for right hip fx"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        39,
+                        ""
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "empty",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient receive iv abx for asp pna",
+                "Was the patient ever given iv abx for asp pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        21,
+                        ""
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "empty",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient receive left nephrectomy for renal cell ca",
+                "Was the patient ever given left nephrectomy for renal cell ca"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        36,
+                        ""
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "empty",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient receive femoral-popliteal bypass for pvd",
+                "Was the patient ever given femoral-popliteal bypass for pvd"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        35,
+                        ""
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "empty",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Was the patient ever given zosyn for presumed aspiration",
+                "Did the patient receive zosyn for presumed aspiration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Did the patient receive zosyn for `` hospital `` aquired pna",
+                "Was the patient ever given zosyn for `` hospital `` aquired pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What happens when the patient receives bipap mask",
+                "What happened when the patient was given bipap mask",
+                "What reaction does the patient have to bipap mask",
+                "What happened when she was given bipap mask"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        6
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient have vanco",
+                "Why did the patient need vanco"
+            ],
+            "ans": [
+                {
+                    "text": "his presumed aspiration",
+                    "answer_start": [
+                        94,
+                        8
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "\" hospital \" aquired pna",
+                    "answer_start": [
+                        94,
+                        12
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient need orif",
+                "Why did the patient have orif"
+            ],
+            "ans": [
+                {
+                    "text": "right hip fx",
+                    "answer_start": [
+                        39,
+                        4
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "single",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient have iv abx",
+                "Why did the patient need iv abx"
+            ],
+            "ans": [
+                {
+                    "text": "asp pna",
+                    "answer_start": [
+                        21,
+                        13
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                },
+                {
+                    "text": "symptoms",
+                    "answer_start": [
+                        21,
+                        35
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "single",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient have left nephrectomy",
+                "Why did the patient need left nephrectomy"
+            ],
+            "ans": [
+                {
+                    "text": "renal cell ca",
+                    "answer_start": [
+                        36,
+                        1
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "single",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient need femoral-popliteal bypass",
+                "Why did the patient have femoral-popliteal bypass"
+            ],
+            "ans": [
+                {
+                    "text": "pvd",
+                    "answer_start": [
+                        35,
+                        1
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "single",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Why did the patient have zosyn",
+                "Why did the patient need zosyn"
+            ],
+            "ans": [
+                {
+                    "text": "his presumed aspiration",
+                    "answer_start": [
+                        94,
+                        8
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                },
+                {
+                    "text": "\" hospital \" aquired pna",
+                    "answer_start": [
+                        94,
+                        12
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "single",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the status of the patient's rll pneumonia",
+                "Does she have rll pneumonia",
+                "Does the patient have rll pneumonia",
+                "Does pt. have rll pneumonia",
+                "Does this patient have rll pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's murmurs well controlled",
+                "Does this patient have murmurs",
+                "Does the patient have murmurs",
+                "Is the patients murmurs controlled",
+                "Does pt. have murmurs"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        64,
+                        ""
+                    ],
+                    "evidence_start": 64,
+                    "answer_entity_type": "empty",
+                    "evidence": "CV : difficult to assess heart sounds over respiratory sounds , but appears to have RRR , nl s1 s2 , no murmurs\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's oral discharge well-controlled",
+                "Does the patient have a current oral discharge",
+                "Does pt. have oral discharge",
+                "What is the status of the patient's oral discharge",
+                "Does oral discharge exist"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patients increasingly somnolent status",
+                "Does the patient have increasingly somnolent",
+                "Does this patient have increasingly somnolent",
+                "What is the status of the patient's increasingly somnolent",
+                "Is the patient's increasingly somnolent well-controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        103,
+                        ""
+                    ],
+                    "evidence_start": 103,
+                    "answer_entity_type": "empty",
+                    "evidence": "In the evening of the day of admission he was noted to be increasingly somnolent .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have htn",
+                "What is the patients htn status",
+                "What is the status of the patient's htn",
+                "Does the patient have any htn",
+                "Does she have htn"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        32,
+                        ""
+                    ],
+                    "evidence_start": 32,
+                    "answer_entity_type": "empty",
+                    "evidence": "- HTN\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does she have early sepsis",
+                "Does he have early sepsis",
+                "Does the patient have any early sepsis",
+                "What is the patient's current early sepsis status",
+                "Does the patient suffer from early sepsis"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        111,
+                        ""
+                    ],
+                    "evidence_start": 111,
+                    "answer_entity_type": "empty",
+                    "evidence": "This was concerning for early sepsis given RLL PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pt. have focal consolidation in the medial aspect",
+                "Does this patient have focal consolidation in the medial aspect",
+                "What is the status of the patient's focal consolidation in the medial aspect",
+                "Does the patient currently have focal consolidation in the medial aspect",
+                "Does the patient have a current focal consolidation in the medial aspect"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        91,
+                        ""
+                    ],
+                    "evidence_start": 91,
+                    "answer_entity_type": "empty",
+                    "evidence": "Focal consolidation in the medial aspect of the right lower lung\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's edema well controlled",
+                "Does the patient have edema",
+                "What is the patient's edema status",
+                "What is the patients edema status",
+                "Does the person have edema"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        68,
+                        ""
+                    ],
+                    "evidence_start": 68,
+                    "answer_entity_type": "empty",
+                    "evidence": "Ext : thin , no edema , multiple old well-healed scars on R leg\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pvd exist",
+                "What is the patient's current pvd status",
+                "Does he have pvd",
+                "What is the patient's pvd status",
+                "Does pt. have pvd"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        35,
+                        ""
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "empty",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patients moderate distress status",
+                "What is the patient's current moderate distress status",
+                "Does the patient suffer from moderate distress",
+                "Is the patients moderate distress controlled",
+                "Does the patient have any moderate distress"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does he have `` hospital `` aquired pna",
+                "Does the patient have any `` hospital `` aquired pna",
+                "Is the patient's `` hospital `` aquired pna well-controlled",
+                "Has the patient's `` hospital `` aquired pna resolved",
+                "What is the status of her `` hospital `` aquired pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient currently have dementia",
+                "Does the patient suffer from dementia",
+                "Is the patients dementia controlled",
+                "Does pt. have dementia",
+                "What is the patient's dementia status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient's elevated lactate resolved",
+                "Does the patient currently have elevated lactate",
+                "Does he have elevated lactate",
+                "Does the patient have elevated lactate",
+                "Does this patient have elevated lactate"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        110,
+                        ""
+                    ],
+                    "evidence_start": 110,
+                    "answer_entity_type": "empty",
+                    "evidence": "Elevated lactate :\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does depression exist",
+                "What is the status of her depression",
+                "What is the status of the patient's depression",
+                "Does this patient have depression",
+                "Is the patients depression controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        41,
+                        ""
+                    ],
+                    "evidence_start": 41,
+                    "answer_entity_type": "empty",
+                    "evidence": "- Depression\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any dyspnea",
+                "Does he have dyspnea",
+                "Does the patient suffer from dyspnea",
+                "Does the person have dyspnea",
+                "What is the patients dyspnea status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        18,
+                        ""
+                    ],
+                    "evidence_start": 18,
+                    "answer_entity_type": "empty",
+                    "evidence": "CC : dyspnea\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        112,
+                        ""
+                    ],
+                    "evidence_start": 112,
+                    "answer_entity_type": "empty",
+                    "evidence": "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have a current apparent leak",
+                "Does pt. have apparent leak",
+                "Is the patient's apparent leak well-controlled",
+                "What is the patient's current apparent leak status",
+                "What is the status of her apparent leak"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does chf exist",
+                "Does the patient have any chf",
+                "What is the patient's current chf status",
+                "Does he have chf",
+                "What is the patient's chf status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        112,
+                        ""
+                    ],
+                    "evidence_start": 112,
+                    "answer_entity_type": "empty",
+                    "evidence": "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does fevers exist",
+                "Does the person have fevers",
+                "Is the patient's fevers well-controlled",
+                "Does he have fevers",
+                "What is the patient's fevers status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pt. have renal cell ca",
+                "Does the patient have any renal cell ca",
+                "What is the patients renal cell ca status",
+                "Does the patient currently have renal cell ca",
+                "Does the patient have renal cell ca"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        36,
+                        ""
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "empty",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient's masses resolved",
+                "Does he have masses",
+                "Does masses exist",
+                "Is the patients masses controlled",
+                "What is the status of her masses"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient suffer from rhinorhea",
+                "Is the patient's rhinorhea well controlled",
+                "Does the patient have rhinorhea",
+                "What is the patient's current rhinorhea status",
+                "What is the patients rhinorhea status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the person have nd",
+                "Is the patient's nd well controlled",
+                "Does the patient currently have nd",
+                "What is the patients nd status",
+                "Is the patient's nd well-controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patient's current rash status",
+                "Does the patient currently have rash",
+                "Does the patient have rash",
+                "Does this patient have rash",
+                "What is the patients rash status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        69,
+                        ""
+                    ],
+                    "evidence_start": 69,
+                    "answer_entity_type": "empty",
+                    "evidence": "Skin : warm and dry , no rash or breakdown noted though could not examine sacrum\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's right hip fx well controlled",
+                "Does the patient currently have right hip fx",
+                "What is the status of her right hip fx",
+                "What is the patient's right hip fx status",
+                "Does the patient have right hip fx"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        39,
+                        ""
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "empty",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does she have dm2",
+                "What is the patients dm2 status",
+                "Does the patient have any dm2",
+                "Is the patient's dm2 well controlled",
+                "Does the patient currently have dm2"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        30,
+                        ""
+                    ],
+                    "evidence_start": 30,
+                    "answer_entity_type": "empty",
+                    "evidence": "- DM2 , with mild background diabetic retinopathy\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        113,
+                        ""
+                    ],
+                    "evidence_start": 113,
+                    "answer_entity_type": "empty",
+                    "evidence": "DM2 :\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pt. have wheezing",
+                "Does wheezing exist",
+                "Does he have wheezing",
+                "Is the patient's wheezing well-controlled",
+                "Does the patient have any wheezing"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does frail exist",
+                "Is the patient's frail well-controlled",
+                "Does the patient currently have frail",
+                "Does he have frail",
+                "What is the patient's current frail status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any pt discomfort",
+                "What is the patient's current pt discomfort status",
+                "Does he have pt discomfort",
+                "Has the patient's pt discomfort resolved",
+                "Does she have pt discomfort"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        97,
+                        ""
+                    ],
+                    "evidence_start": 97,
+                    "answer_entity_type": "empty",
+                    "evidence": "An ABG was attempted in the Deanna however it was limited by pt discomfort .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the status of her asp pna",
+                "Does the patient have a current asp pna",
+                "Does asp pna exist",
+                "Does the patient suffer from asp pna",
+                "Does pt. have asp pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        21,
+                        ""
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "empty",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any moderate r sided macular degeneration",
+                "Has the patient's moderate r sided macular degeneration resolved",
+                "Does the patient have a current moderate r sided macular degeneration",
+                "Does the patient have moderate r sided macular degeneration",
+                "Does the person have moderate r sided macular degeneration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        40,
+                        ""
+                    ],
+                    "evidence_start": 40,
+                    "answer_entity_type": "empty",
+                    "evidence": "- moderate R sided macular degeneration\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's breakdown well-controlled",
+                "What is the patient's breakdown status",
+                "What is the patients breakdown status",
+                "Does this patient have breakdown",
+                "Is the patients breakdown controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        69,
+                        ""
+                    ],
+                    "evidence_start": 69,
+                    "answer_entity_type": "empty",
+                    "evidence": "Skin : warm and dry , no rash or breakdown noted though could not examine sacrum\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's clear pneumonia well controlled",
+                "Does the patient have any clear pneumonia",
+                "Does the patient currently have clear pneumonia",
+                "Has the patient's clear pneumonia resolved",
+                "Does the patient have clear pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any pe",
+                "Does pe exist",
+                "Is the patient's pe well-controlled",
+                "Does the patient have pe",
+                "Does he have pe"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does this patient have rales",
+                "What is the patients rales status",
+                "Does the patient suffer from rales",
+                "What is the status of her rales",
+                "Has the patient's rales resolved"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any multiple old well-healed scars on r leg",
+                "Is the patients multiple old well-healed scars on r leg controlled",
+                "Does pt. have multiple old well-healed scars on r leg",
+                "What is the status of the patient's multiple old well-healed scars on r leg",
+                "Does multiple old well-healed scars on r leg exist"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        68,
+                        ""
+                    ],
+                    "evidence_start": 68,
+                    "answer_entity_type": "empty",
+                    "evidence": "Ext : thin , no edema , multiple old well-healed scars on R leg\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient suffer from known allergies",
+                "Is the patient's known allergies well-controlled",
+                "Does known allergies exist",
+                "What is the status of her known allergies",
+                "Does she have known allergies"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        12,
+                        ""
+                    ],
+                    "evidence_start": 12,
+                    "answer_entity_type": "empty",
+                    "evidence": "Patient recorded as having No Known Allergies to Drugs\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patients hypoxia status",
+                "Does he have hypoxia",
+                "Does the patient have any hypoxia",
+                "What is the patient's current hypoxia status",
+                "Is the patient's hypoxia well-controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        15,
+                        ""
+                    ],
+                    "evidence_start": 15,
+                    "answer_entity_type": "empty",
+                    "evidence": "Hypoxia\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does accessory muscle use exist",
+                "Does this patient have accessory muscle use",
+                "Does the person have accessory muscle use",
+                "Does the patient have any accessory muscle use",
+                "Does she have accessory muscle use"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patients coarse bs controlled",
+                "Does pt. have coarse bs",
+                "Does he have coarse bs",
+                "What is the patient's coarse bs status",
+                "What is the patient's current coarse bs status"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have mild background diabetic retinopathy",
+                "What is the patient's mild background diabetic retinopathy status",
+                "Is the patient's mild background diabetic retinopathy well-controlled",
+                "Does the patient suffer from mild background diabetic retinopathy",
+                "Does mild background diabetic retinopathy exist"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        30,
+                        ""
+                    ],
+                    "evidence_start": 30,
+                    "answer_entity_type": "empty",
+                    "evidence": "- DM2 , with mild background diabetic retinopathy\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patient's presumed aspiration status",
+                "Does the patient have a current presumed aspiration",
+                "Does the patient have any presumed aspiration",
+                "Is the patients presumed aspiration controlled",
+                "Does the patient suffer from presumed aspiration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patient's nt well-controlled",
+                "Does nt exist",
+                "Does the patient have nt",
+                "What is the patient's current nt status",
+                "Does the patient currently have nt"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does aspiration pneumonia exist",
+                "Does the patient suffer from aspiration pneumonia",
+                "What is the status of the patient's aspiration pneumonia",
+                "Does pt. have aspiration pneumonia",
+                "Has the patient's aspiration pneumonia resolved"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the status of the patient's pneumonia",
+                "Does she have pneumonia",
+                "Does this patient have pneumonia",
+                "Does pneumonia exist",
+                "Does the patient have any pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        129,
+                        ""
+                    ],
+                    "evidence_start": 129,
+                    "answer_entity_type": "empty",
+                    "evidence": "Pneumonia\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does he have rll pna",
+                "Does rll pna exist",
+                "Is the patient's rll pna well-controlled",
+                "What is the patients rll pna status",
+                "Does the patient have a current rll pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        111,
+                        ""
+                    ],
+                    "evidence_start": 111,
+                    "answer_entity_type": "empty",
+                    "evidence": "This was concerning for early sepsis given RLL PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have a current bph",
+                "Does the patient suffer from bph",
+                "Does pt. have bph",
+                "What is the status of her bph",
+                "Is the patients bph controlled"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        37,
+                        ""
+                    ],
+                    "evidence_start": 37,
+                    "answer_entity_type": "empty",
+                    "evidence": "- BPH\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient currently have cva",
+                "Does pt. have cva",
+                "Does the patient suffer from cva",
+                "What is the patients cva status",
+                "Does he have cva"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        31,
+                        ""
+                    ],
+                    "evidence_start": 31,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CVA x 2 , 1970 and 1996\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is the patients cad controlled",
+                "Does pt. have cad",
+                "Is the patient's cad well controlled",
+                "Does the person have cad",
+                "Does the patient have cad"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        116,
+                        ""
+                    ],
+                    "evidence_start": 116,
+                    "answer_entity_type": "empty",
+                    "evidence": "CAD :\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        33,
+                        ""
+                    ],
+                    "evidence_start": 33,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CAD\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does patient have a past medical history of rll pneumonia",
+                "Does she have a history of rll pneumonia",
+                "Is there any history of rll pneumonia in the medical record",
+                "rll pneumonia",
+                "Has this patient had rll pneumonia in the past"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient had a history of murmurs",
+                "Does the patient have any history of previous murmurs",
+                "murmurs",
+                "Does the patient have any murmurs history",
+                "does this pt have a history of \"murmurs\""
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        64,
+                        ""
+                    ],
+                    "evidence_start": 64,
+                    "answer_entity_type": "empty",
+                    "evidence": "CV : difficult to assess heart sounds over respiratory sounds , but appears to have RRR , nl s1 s2 , no murmurs\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pt have a history of oral discharge",
+                "Does this woman have a history of oral discharge",
+                "Does the patient have a history oral discharge",
+                "oral discharge",
+                "Does the patient have a past history of oral discharge"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "does this pt have a history of \"increasingly somnolent\"",
+                "Does the patient have a history of increasingly somnolent",
+                "Does the patient have a past history of increasingly somnolent",
+                "increasingly somnolent",
+                "Does the patient have any other history of increasingly somnolent"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        103,
+                        ""
+                    ],
+                    "evidence_start": 103,
+                    "answer_entity_type": "empty",
+                    "evidence": "In the evening of the day of admission he was noted to be increasingly somnolent .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient ever reported htn",
+                "htn",
+                "Does this woman have a history of htn",
+                "Can I search my patient's medical record for htn in the past",
+                "What is the patient's history of htn"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        32,
+                        ""
+                    ],
+                    "evidence_start": 32,
+                    "answer_entity_type": "empty",
+                    "evidence": "- HTN\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have a history early sepsis",
+                "early sepsis history",
+                "Does this woman have a history of early sepsis",
+                "Any mention of early sepsis",
+                "Does the patient have any history of early sepsis"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        111,
+                        ""
+                    ],
+                    "evidence_start": 111,
+                    "answer_entity_type": "empty",
+                    "evidence": "This was concerning for early sepsis given RLL PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "was the patient ever seen for focal consolidation in the medial aspect",
+                "Has the patient had previous focal consolidation in the medial aspect",
+                "What is the patient's focal consolidation in the medial aspect history",
+                "Does pt have a history of focal consolidation in the medial aspect",
+                "Does she have a history of focal consolidation in the medial aspect"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        91,
+                        ""
+                    ],
+                    "evidence_start": 91,
+                    "answer_entity_type": "empty",
+                    "evidence": "Focal consolidation in the medial aspect of the right lower lung\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient has any past edema",
+                "Any edema history",
+                "Has the patient had a previous edema",
+                "does this pt have a history of \"edema\"",
+                "Has the patient had previous edema"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        68,
+                        ""
+                    ],
+                    "evidence_start": 68,
+                    "answer_entity_type": "empty",
+                    "evidence": "Ext : thin , no edema , multiple old well-healed scars on R leg\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "pvd history",
+                "Is there any mention of pvd in the patient's record",
+                "Has there been any history of pvd",
+                "Does patient have a past medical history of pvd",
+                "Any mention of pvd"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        35,
+                        ""
+                    ],
+                    "evidence_start": 35,
+                    "answer_entity_type": "empty",
+                    "evidence": "- PVD , s/p femoral-popliteal bypass\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient ever had moderate distress",
+                "Does the patient have any history of moderate distress",
+                "Is there a mention of moderate distress in the records",
+                "Has the patient experienced moderate distress in the past",
+                "Does the patient have a prior history of moderate distress"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had a previous `` hospital `` aquired pna",
+                "Has this patient/employee ever been exposed to `` hospital `` aquired pna",
+                "Does that patient have a history of `` hospital `` aquired pna",
+                "Has the patient ever gone into `` hospital `` aquired pna",
+                "Does this patient have a history of `` hospital `` aquired pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is dementia history",
+                "Does this woman have a history of dementia",
+                "Has this patient ever had dementia",
+                "Is there mention of dementia anywhere in the record",
+                "Has the patient had previous dementia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        38,
+                        ""
+                    ],
+                    "evidence_start": 38,
+                    "answer_entity_type": "empty",
+                    "evidence": "- dementia , since 2000 , baseline MMSE 21/29\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Any elevated lactate history",
+                "Has the patient experienced elevated lactate in the past",
+                "Is there mention of elevated lactate anywhere in the record",
+                "Has been the patient ever been considered for elevated lactate",
+                "Does the patient have a history of elevated lactate"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        110,
+                        ""
+                    ],
+                    "evidence_start": 110,
+                    "answer_entity_type": "empty",
+                    "evidence": "Elevated lactate :\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had depression",
+                "Does the patient have any other history of depression",
+                "Has been the patient ever been considered for depression",
+                "Does the patient have a prior history of depression",
+                "Has this patient ever had depression"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        41,
+                        ""
+                    ],
+                    "evidence_start": 41,
+                    "answer_entity_type": "empty",
+                    "evidence": "- Depression\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient had dyspnea in the past",
+                "Has she ever had dyspnea before",
+                "What is dyspnea history",
+                "Does the patient have a history dyspnea",
+                "does this pt have a history of \"dyspnea\""
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        18,
+                        ""
+                    ],
+                    "evidence_start": 18,
+                    "answer_entity_type": "empty",
+                    "evidence": "CC : dyspnea\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        112,
+                        ""
+                    ],
+                    "evidence_start": 112,
+                    "answer_entity_type": "empty",
+                    "evidence": "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient had a history of apparent leak",
+                "does this pt have a history of \"apparent leak\"",
+                "Does the patient have any apparent leak history",
+                "Has the patient ever gone into apparent leak",
+                "Does patient have a past medical history of apparent leak"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is the patient's history of chf",
+                "Has been the patient ever been considered for chf",
+                "Has this patient ever reported chf",
+                "Does the patient have a history of chf",
+                "Does the patient has any past chf"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        34,
+                        ""
+                    ],
+                    "evidence_start": 34,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CHF , LVEF unknown\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        112,
+                        ""
+                    ],
+                    "evidence_start": 112,
+                    "answer_entity_type": "empty",
+                    "evidence": "His blood pressures remained elevated and he was hydrated with NS conservatively , given h/o CHF and dyspnea .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "fevers history",
+                "What is the patient's history of fevers",
+                "Does the patient have a past history of fevers",
+                "Has the patient ever reported fevers",
+                "Does she have a history of fevers"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does pt have a history of renal cell ca",
+                "Has the patient ever reported renal cell ca",
+                "Does this woman have a history of renal cell ca",
+                "Has the patient had previous renal cell ca",
+                "Does patient have a past medical history of renal cell ca"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        36,
+                        ""
+                    ],
+                    "evidence_start": 36,
+                    "answer_entity_type": "empty",
+                    "evidence": "- renal cell ca , s/p left nephrectomy 1992\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient experienced masses in the past",
+                "Does the patient have any other history of masses",
+                "Does the patient had a history of masses",
+                "Any mention of masses",
+                "Does pt have a history of masses"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any history of previous rhinorhea",
+                "Is there a history of rhinorhea",
+                "Does the patient have a past history of rhinorhea",
+                "Has the patient had a previous rhinorhea",
+                "Can I search my patient's medical record for rhinorhea in the past"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        61,
+                        ""
+                    ],
+                    "evidence_start": 61,
+                    "answer_entity_type": "empty",
+                    "evidence": "BIPAP mask in place with no apparent leak , eyes closed , mouth open , no rhinorhea or oral discharge visible\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "does this pt have a history of \"nd\"",
+                "has nd been considered in the past",
+                "Does the patient has any past nd",
+                "nd history",
+                "Has the patient ever reported nd"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any history of previous rash",
+                "Any mention of rash",
+                "Does the patient have a prior history of rash",
+                "Has this patient/employee ever been exposed to rash",
+                "Has the patient ever had any rash"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        69,
+                        ""
+                    ],
+                    "evidence_start": 69,
+                    "answer_entity_type": "empty",
+                    "evidence": "Skin : warm and dry , no rash or breakdown noted though could not examine sacrum\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does patient have a past medical history of right hip fx",
+                "Is there any history of right hip fx in the medical record",
+                "Is there a mention of right hip fx in the record",
+                "Has been the patient ever been considered for right hip fx",
+                "previous right hip fx documented in the records"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        39,
+                        ""
+                    ],
+                    "evidence_start": 39,
+                    "answer_entity_type": "empty",
+                    "evidence": "- s/p fall with right hip fx and ORIF\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does that patient have a history of dm2",
+                "Has the patient ever gone into dm2",
+                "Does this woman have a history of dm2",
+                "Has this patient ever reported dm2",
+                "Does the patient have any dm2 history"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        30,
+                        ""
+                    ],
+                    "evidence_start": 30,
+                    "answer_entity_type": "empty",
+                    "evidence": "- DM2 , with mild background diabetic retinopathy\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        113,
+                        ""
+                    ],
+                    "evidence_start": 113,
+                    "answer_entity_type": "empty",
+                    "evidence": "DM2 :\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had previous wheezing",
+                "Is there any mention of wheezing in the patient's record",
+                "Has the patient experienced wheezing in the past",
+                "Has the pt ever seen wheezing before",
+                "Does the patient have a prior history of wheezing"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is there a mention of frail in the records",
+                "Does the patient have a prior history of frail",
+                "Has the pt ever seen frail before",
+                "Is there any mention of frail in the patient's record",
+                "Does the patient had a history of frail"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Any history of pt discomfort",
+                "Has been the patient ever been considered for pt discomfort",
+                "Has the patient had a previous pt discomfort",
+                "Is there a history of pt discomfort",
+                "Any pt discomfort history"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        97,
+                        ""
+                    ],
+                    "evidence_start": 97,
+                    "answer_entity_type": "empty",
+                    "evidence": "An ABG was attempted in the Deanna however it was limited by pt discomfort .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is there a history of asp pna",
+                "has asp pna been considered in the past",
+                "Is there a mention of asp pna in the records",
+                "previous asp pna documented in the records",
+                "Any asp pna history"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        21,
+                        ""
+                    ],
+                    "evidence_start": 21,
+                    "answer_entity_type": "empty",
+                    "evidence": "Per the pt 's daughter , the patient has had 2-3 episodes of asp pna in the last 2 months , for which he has received IV abx at the NH with apparent resolution of symptoms .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any other history of moderate r sided macular degeneration",
+                "Is there a mention of moderate r sided macular degeneration in the records",
+                "Does the patient has any past moderate r sided macular degeneration",
+                "Has the patient ever gone into moderate r sided macular degeneration",
+                "Does that patient have a history of moderate r sided macular degeneration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        40,
+                        ""
+                    ],
+                    "evidence_start": 40,
+                    "answer_entity_type": "empty",
+                    "evidence": "- moderate R sided macular degeneration\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Any mention of breakdown",
+                "Has the patient ever reported breakdown",
+                "What is the patients breakdown history",
+                "Is there any mention of breakdown in the patient's record",
+                "Does patient have a past medical history of breakdown"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        69,
+                        ""
+                    ],
+                    "evidence_start": 69,
+                    "answer_entity_type": "empty",
+                    "evidence": "Skin : warm and dry , no rash or breakdown noted though could not examine sacrum\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "does this pt have a history of \"clear pneumonia\"",
+                "Does that patient have a history of clear pneumonia",
+                "Any mention of clear pneumonia",
+                "Is there a mention of clear pneumonia in the record",
+                "Has the patient ever reported clear pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "What is pe history",
+                "Does the patient have a prior history of pe",
+                "Has the pt ever seen pe before",
+                "Does patient have a past medical history of pe",
+                "Does this woman have a history of pe"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        95,
+                        ""
+                    ],
+                    "evidence_start": 95,
+                    "answer_entity_type": "empty",
+                    "evidence": "PE was considered but less likely given his fevers and clear pneumonia on CXR .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does this woman have a history of rales",
+                "Has the patient had rales",
+                "Does she have a history of rales",
+                "Can I search my patient's medical record for rales in the past",
+                "was the patient ever seen for rales"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does she have a history of multiple old well-healed scars on r leg",
+                "Has been the patient ever been considered for multiple old well-healed scars on r leg",
+                "Has the patient had previous multiple old well-healed scars on r leg",
+                "History of multiple old well-healed scars on r leg",
+                "Has the patient ever reported multiple old well-healed scars on r leg"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        68,
+                        ""
+                    ],
+                    "evidence_start": 68,
+                    "answer_entity_type": "empty",
+                    "evidence": "Ext : thin , no edema , multiple old well-healed scars on R leg\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient has any past known allergies",
+                "Does the patient have a prior history of known allergies",
+                "previous known allergies documented in the records",
+                "Does the patient have any other history of known allergies",
+                "Any mention of known allergies"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        12,
+                        ""
+                    ],
+                    "evidence_start": 12,
+                    "answer_entity_type": "empty",
+                    "evidence": "Patient recorded as having No Known Allergies to Drugs\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have a history hypoxia",
+                "does this pt have a history of \"hypoxia\"",
+                "Has this patient ever had hypoxia",
+                "Any hypoxia history",
+                "Any mention of hypoxia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        15,
+                        ""
+                    ],
+                    "evidence_start": 15,
+                    "answer_entity_type": "empty",
+                    "evidence": "Hypoxia\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient had a history of accessory muscle use",
+                "Has this patient/employee ever been exposed to accessory muscle use",
+                "accessory muscle use",
+                "Has the patient ever had any accessory muscle use",
+                "Has this patient had accessory muscle use in the past"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        59,
+                        ""
+                    ],
+                    "evidence_start": 59,
+                    "answer_entity_type": "empty",
+                    "evidence": "Gen : frail , elderly caucasian man lying in stretcher , HOB at 45 degrees , breathing in moderate distress with accessory muscle use\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have a history of coarse bs",
+                "previous coarse bs documented in the records",
+                "Does the patient have any coarse bs history",
+                "Has this patient had coarse bs in the past",
+                "Does patient have a past medical history of coarse bs"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        66,
+                        ""
+                    ],
+                    "evidence_start": 66,
+                    "answer_entity_type": "empty",
+                    "evidence": "R lower 01-20 with coarse BS and rales ; L side clear ; no wheezing\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient ever gone into mild background diabetic retinopathy",
+                "Does the patient have any other history of mild background diabetic retinopathy",
+                "Has this patient had mild background diabetic retinopathy in the past",
+                "Is there a mention of mild background diabetic retinopathy in the record",
+                "Is there a history of mild background diabetic retinopathy"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        30,
+                        ""
+                    ],
+                    "evidence_start": 30,
+                    "answer_entity_type": "empty",
+                    "evidence": "- DM2 , with mild background diabetic retinopathy\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Any presumed aspiration history",
+                "Does the patient has any past presumed aspiration",
+                "Has this patient ever had presumed aspiration",
+                "Has the patient had a previous presumed aspiration",
+                "Has this patient ever reported presumed aspiration"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        94,
+                        ""
+                    ],
+                    "evidence_start": 94,
+                    "answer_entity_type": "empty",
+                    "evidence": "He was started on Zosyn and Vanco for his presumed aspiration , \" hospital \" aquired PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Does the patient have any history of previous nt",
+                "Does pt have a history of nt",
+                "Has the patient ever had any nt",
+                "Does the patient have a history of nt",
+                "Is there mention nt anywhere in the record"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        67,
+                        ""
+                    ],
+                    "evidence_start": 67,
+                    "answer_entity_type": "empty",
+                    "evidence": "Abd : thin , nd , nt , soft , no masses palpable\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has the patient had previous aspiration pneumonia",
+                "Has the patient ever gone into aspiration pneumonia",
+                "Has there been any history of aspiration pneumonia",
+                "Has this patient ever had aspiration pneumonia",
+                "Does that patient have a history of aspiration pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "pneumonia history",
+                "Does the patient have any other history of pneumonia",
+                "Has been the patient ever been considered for pneumonia",
+                "Has the patient experienced pneumonia in the past",
+                "Has this patient ever had pneumonia"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        129,
+                        ""
+                    ],
+                    "evidence_start": 129,
+                    "answer_entity_type": "empty",
+                    "evidence": "Pneumonia\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is there mention rll pna anywhere in the record",
+                "Is there mention of rll pna anywhere in the record",
+                "has rll pna been considered in the past",
+                "Does the patient have any other history of rll pna",
+                "was the patient ever seen for rll pna"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        111,
+                        ""
+                    ],
+                    "evidence_start": 111,
+                    "answer_entity_type": "empty",
+                    "evidence": "This was concerning for early sepsis given RLL PNA .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Is there a history of bph",
+                "Does patient have a past medical history of bph",
+                "Has the patient experienced bph in the past",
+                "does this pt have a history of \"bph\"",
+                "Has the patient ever reported bph"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        37,
+                        ""
+                    ],
+                    "evidence_start": 37,
+                    "answer_entity_type": "empty",
+                    "evidence": "- BPH\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient had cva in the past",
+                "Is there a history of cva",
+                "was the patient ever seen for cva",
+                "Any cva history",
+                "Does the patient have any other history of cva"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        31,
+                        ""
+                    ],
+                    "evidence_start": 31,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CVA x 2 , 1970 and 1996\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        20,
+                        ""
+                    ],
+                    "evidence_start": 20,
+                    "answer_entity_type": "empty",
+                    "evidence": "86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , who p/w dyspnea from his NH .\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        93,
+                        ""
+                    ],
+                    "evidence_start": 93,
+                    "answer_entity_type": "empty",
+                    "evidence": "This 86 yo man with h/o CVA , CHF , recent episodes of aspiration pneumonia , presented with dyspnea from his NH , likely from new RLL pneumonia .\n"
+                }
+            ]
+        },
+        {
+            "ques": [
+                "Has this patient had cad in the past",
+                "Any history of cad",
+                "Does patient have a past medical history of cad",
+                "What is cad history",
+                "Does the patient have any other history of cad"
+            ],
+            "ans": [
+                {
+                    "text": "",
+                    "answer_start": [
+                        116,
+                        ""
+                    ],
+                    "evidence_start": 116,
+                    "answer_entity_type": "empty",
+                    "evidence": "CAD :\n"
+                },
+                {
+                    "text": "",
+                    "answer_start": [
+                        33,
+                        ""
+                    ],
+                    "evidence_start": 33,
+                    "answer_entity_type": "empty",
+                    "evidence": "- CAD\n"
+                }
+            ]
+        }
+    ]
+}
