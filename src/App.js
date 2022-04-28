@@ -5,7 +5,7 @@ import axios from 'axios';
 
 function App() {
 
-  const [queryResult, setQueryResult] = useState('');
+  const [queryResult, setQueryResult] = useState();
   const [query, setQuery] = useState('');
 
   // var question = ""
