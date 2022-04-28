@@ -5,11 +5,19 @@ import axios from 'axios';
 
 function App() {
 
-  const [queryResult, setQueryResult] = useState();
+  // const [queryResult, setQueryResult] = useState();
   const [query, setQuery] = useState('');
+  const [answer, setAnswer] = useState('');
 
   var eth = 100;
   const deduction = 0.0000005135;
+
+  const sampleJSON = {
+    "score": 0.75,
+    "start": 201,
+    "end": 230,
+    "answer": "Amazonia or the Amazon Jungle"
+  }
 
   // var question = ""
   const jsonToTable = require('json-to-table');
@@ -38,18 +46,31 @@ function App() {
     eth = eth - deduction
     console.log("Transaction from -> 0xab5801a7d398351b8be11c439e05c5b3259aec9b");
     console.log("Final balance: "+eth);
-    console.log(data);
-    let data = await axios.get(`/query/${query}`);
+    // console.log(data);
+
+
+    // let data = await axios.get(`http://127.0.0.1:5000/query?question=${query}`);
+    let data = sampleJSON;
+    // console.log(data);
+
+    // console.log(data.score);
     
+    // setAnswer(data.answer);
     let parsedData = JSON.parse(JSON.stringify(data));
-    setQueryResult(parsedData.result);
+    // console.log(parsedData.answer);
+    console.log(parsedData);
+    setAnswer(parsedData.answer);
+
+    // console.log(parsedData.score);
+    // setAnswer(parsedData.answer);
+    // setQueryResult(parsedData.result);
   }
 
   return (
     <div className="App">
       <input value={query} onChange={(e) => handleChange(e)} placeholder="Enter your question..."></input>
       <button onClick={() => queryMedicalRecord(query)}>Query</button>
-      <p>{tabled}</p>
+      <p>{answer}</p>
     </div>
   );
 }
