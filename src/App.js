@@ -49,8 +49,8 @@ function App() {
     // console.log(data);
 
 
-    // let data = await axios.get(`http://127.0.0.1:5000/query?question=${query}`);
-    let data = sampleJSON;
+    let data = await axios.get(`http://127.0.0.1:5000/query?question=${query}`);
+    // let data = sampleJSON;
     // console.log(data);
 
     // console.log(data.score);
