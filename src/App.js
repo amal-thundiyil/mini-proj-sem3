@@ -6,8 +6,9 @@ import axios from 'axios';
 function App() {
 
   const [queryResult, setQueryResult] = useState('');
+  const [query, setQuery] = useState('');
 
-  var question = ""
+  // var question = ""
   const jsonToTable = require('json-to-table');
   
   const myRecords = [
@@ -22,11 +23,11 @@ function App() {
   const tabled = jsonToTable(myRecords);
 
   const handleChange = (e) => {
-    question = e.target.value;
+    setQuery(e.target.value);
   }
 
   const queryMedicalRecord = async () => {
-    let data = await axios.get('/query');
+    let data = await axios.get(`/query/${query}`);
     console.log(data);
     let parsedData = JSON.parse(JSON.stringify(data));
     setQueryResult(parsedData.result);
@@ -34,8 +35,8 @@ function App() {
 
   return (
     <div className="App">
-      <input value={question} onChange={(e) => handleChange(e)} placeholder="Enter your question..."></input>
-      <button onClick={() => queryMedicalRecord(question)}>Query</button>
+      <input value={query} onChange={(e) => handleChange(e)} placeholder="Enter your question..."></input>
+      <button onClick={() => queryMedicalRecord(query)}>Query</button>
       <p>{tabled}</p>
     </div>
   );
