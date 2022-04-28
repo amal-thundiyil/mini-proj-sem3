@@ -1,16 +1,18 @@
 from flask import Flask, request
 from model import Query
 import json
+from flask_cors import CORS
 
 app = Flask(__name__)
+cors = CORS(app, resources=r"/*", origins="*", supports_credentials=True)
+data = None
 
-address = "./emr_2.json"
-f = open(address)
-data = json.load(f)
-context = " ".join(data['context'])
+with open("./emr_2.json") as f:
+    data = json.loads(f.read())
+
+context = " ".join(data.get('context'))
 
 q = Query()
-
 
 @app.route("/query", methods=['GET', 'POST'])
 def query():
@@ -22,5 +24,5 @@ def query():
         return q.query(context, question)
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     app.run(debug=True)

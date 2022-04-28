@@ -49,7 +49,7 @@ function App() {
     // console.log(data);
 
 
-    let data = await axios.get(`http://127.0.0.1:5000/query?question=${query}`);
+    let data = await axios.get(`/query?question=${query}`);
     // let data = sampleJSON;
     // console.log(data);
 
