@@ -37,7 +37,7 @@ function App() {
   const queryMedicalRecord = async () => {
     eth = eth - deduction
     console.log("Transaction from -> 0xab5801a7d398351b8be11c439e05c5b3259aec9b");
-    console.log("Final balance: "+eth)
+    console.log("Final balance: "+eth);
     console.log(data);
     let data = await axios.get(`/query/${query}`);
     
