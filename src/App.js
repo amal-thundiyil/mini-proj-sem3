@@ -42,7 +42,7 @@ function App() {
     console.log('Blockchain connection successfull with account 0xab5801a7d398351b8be11c439e05c5b3259aec9b!');
   },[]);
 
-  const queryMedicalRecord = async () => {
+  const queryMedicalRecord = async (query) => {
     eth = eth - deduction
     console.log("Transaction from -> 0xab5801a7d398351b8be11c439e05c5b3259aec9b");
     console.log("Final balance: "+eth);
