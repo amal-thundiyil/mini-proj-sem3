@@ -56,7 +56,7 @@ function App() {
     // console.log(data.score);
     
     // setAnswer(data.answer);
-    let parsedData = JSON.parse(JSON.stringify(data));
+    let parsedData = JSON.parse(JSON.stringify(data.data));
     // console.log(parsedData.answer);
     console.log(parsedData);
     setAnswer(parsedData.answer);

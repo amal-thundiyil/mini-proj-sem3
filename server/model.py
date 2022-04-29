@@ -1,10 +1,10 @@
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer, pipeline
 import json
 
-model_name = "deepset/roberta-base-squad2-covid"
+model_name = "emr-se-miniproject/roberta-base-emr"
 
 class Query:
-    def _init_(self):
+    def __init__(self):
         self.nlp = pipeline('question-answering', model=model_name, tokenizer=model_name)
 
     def query(self, context, question):
